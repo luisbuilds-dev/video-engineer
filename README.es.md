@@ -39,6 +39,18 @@ claude
 
 Dentro de Claude Code escribe **`/empezar`**. Revisa tu equipo, instala lo que falte con tu permiso y te hace un cuestionario corto para crear tu estilo.
 
+### O pega este prompt
+
+Abre Claude Code en la carpeta donde lo quieras y pega:
+
+```text
+Instálame Video Engineer y déjalo listo para editar mi primer vídeo:
+1. Clona https://github.com/luisbuilds-dev/video-engineer.git en esta carpeta (si no tengo git, descarga https://github.com/luisbuilds-dev/video-engineer/archive/refs/heads/main.zip y descomprímelo) y trabaja dentro de esa carpeta desde ahora.
+2. Lee su CLAUDE.md y sigue paso a paso .claude/skills/empezar/SKILL.md: revisa mi equipo, pídeme permiso antes de instalar nada y hazme las preguntas de estilo de una en una.
+3. Cuando todo esté listo, dime cómo volver a abrir Claude Code dentro de la carpeta para usar /limpiar con mi primer vídeo.
+Háblame en mi idioma.
+```
+
 ## Qué incluye
 
 - **Subtítulos que nunca te tapan**: analiza cada fotograma (cara y movimiento) y coloca cada subtítulo, tarjeta y gráfico donde no tapa nada, sin saltos.

@@ -39,6 +39,18 @@ claude
 
 Inside Claude Code type **`/empezar`** ("start"). It checks your setup, installs what is missing with your permission and asks a short style questionnaire. The commands have Spanish names, but the engineer talks to you in your own language.
 
+### Or just paste this prompt
+
+Open Claude Code in the folder where you want it and paste:
+
+```text
+Set up Video Engineer for me and get me ready to edit my first video:
+1. Clone https://github.com/luisbuilds-dev/video-engineer.git into this folder (if git is missing, download https://github.com/luisbuilds-dev/video-engineer/archive/refs/heads/main.zip and unzip it) and work inside that folder from now on.
+2. Read its CLAUDE.md and follow .claude/skills/empezar/SKILL.md step by step: check my computer, ask me before installing anything, and ask me the style questions one at a time.
+3. When everything is ready, tell me how to reopen Claude Code inside the folder so I can use /limpiar with my first video.
+Talk to me in my language.
+```
+
 ## Features
 
 - **Captions that never cover you**: every frame is analyzed (face and motion) and each caption, card and graphic is placed where it covers nothing, without jumping around.

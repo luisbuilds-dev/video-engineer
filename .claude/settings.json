@@ -3,7 +3,12 @@
     "PreToolUse": [
       {
         "matcher": "Bash|Write|Edit",
-        "hooks": [{ "type": "command", "command": "node .claude/hooks/proteger.mjs" }]
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/proteger.mjs"
+          }
+        ]
       }
     ]
   },
@@ -11,14 +16,19 @@
     "allow": [
       "Bash(npm run doctor)",
       "Bash(npm run instalar)",
+      "Bash(npm run entorno)",
       "Bash(npm run transcribir *)",
       "Bash(npm run cortar *)",
       "Bash(npm run analizar *)",
+      "Bash(npm run pantalla *)",
+      "Bash(npm run sensibles *)",
+      "Bash(npm run iconos *)",
       "Bash(npm run componer *)",
       "Bash(npm run render *)",
-      "Bash(npm run aprender *)",
-      "Bash(npm run consejos *)",
       "Bash(npm run revisar *)",
+      "Bash(npm run consejos *)",
+      "Bash(npm run aprender *)",
+      "Bash(npm run musica)",
       "Bash(npm test)"
     ]
   }
