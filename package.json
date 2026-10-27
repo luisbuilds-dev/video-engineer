@@ -1,0 +1,54 @@
+{
+  "name": "video-engineer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tu ingeniero de edición de vídeo para Claude Code: reels verticales y vídeos de YouTube. Limpia el crudo, subtitula sin taparte, añade gráficos, efectos y música, renderiza con Remotion y revisa el resultado antes de entregarlo.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "doctor": "tsx herramientas/doctor.ts",
+    "instalar": "tsx herramientas/instalar.ts",
+    "transcribir": "tsx herramientas/transcribir.ts",
+    "cortar": "tsx herramientas/cortar.ts",
+    "render": "tsx herramientas/render.ts",
+    "revisar": "tsx herramientas/revisar.ts",
+    "estudio": "remotion studio src/index.ts",
+    "test": "vitest run",
+    "analizar": "tsx herramientas/analizar.ts",
+    "componer": "tsx herramientas/componer.ts",
+    "sfx": "tsx herramientas/sintetizar-sfx.ts",
+    "aprender": "tsx herramientas/aprender.ts",
+    "consejos": "tsx herramientas/consejos.ts",
+    "musica": "tsx herramientas/musica.ts",
+    "pantalla": "tsx herramientas/pantalla.ts",
+    "entorno": "tsx herramientas/entorno.ts",
+    "crear-estilo": "tsx herramientas/crear-estilo.ts",
+    "iconos": "tsx herramientas/iconos.ts",
+    "sensibles": "tsx herramientas/sensibles.ts"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.537",
+    "@remotion/captions": "4.0.537",
+    "@remotion/cli": "4.0.537",
+    "@remotion/google-fonts": "4.0.537",
+    "@remotion/install-whisper-cpp": "4.0.537",
+    "@remotion/paths": "4.0.537",
+    "@remotion/renderer": "4.0.537",
+    "lucide": "1.55.0",
+    "onnxruntime-node": "1.22.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "remotion": "4.0.537",
+    "simple-icons": "16.35.0",
+    "tesseract.js": "7.0.0",
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.12",
+    "tsx": "4.20.5",
+    "vitest": "3.2.4"
+  }
+}

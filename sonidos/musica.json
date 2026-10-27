@@ -1,0 +1,32 @@
+{
+  "autor": "Kevin MacLeod",
+  "licencia": "CC BY 4.0",
+  "fuente": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/",
+  "credito": "\"{titulo}\" Kevin MacLeod (incompetech.com) · Licensed under Creative Commons: By Attribution 4.0 · http://creativecommons.org/licenses/by/4.0/",
+  "pistas": [
+    { "id": "monkeys-spinning-monkeys", "titulo": "Monkeys Spinning Monkeys", "animo": "divertido", "energia": 3, "uso": "humor, fails, tutoriales ligeros" },
+    { "id": "sneaky-snitch", "titulo": "Sneaky Snitch", "animo": "travieso", "energia": 3, "uso": "trucos, «plan secreto», bromas" },
+    { "id": "local-forecast", "titulo": "Local Forecast - Elevator", "animo": "espera", "energia": 2, "uso": "esperas, procesos, ironía" },
+    { "id": "fluffing-a-duck", "titulo": "Fluffing a Duck", "animo": "cómico", "energia": 3, "uso": "errores, torpezas, antes de arreglarlo" },
+    { "id": "investigations", "titulo": "Investigations", "animo": "misterio", "energia": 2, "uso": "investigar, ciberseguridad, revelar algo" },
+    { "id": "wallpaper", "titulo": "Wallpaper", "animo": "tecnológico", "energia": 2, "uso": "tutoriales tech, setups, código" },
+    { "id": "carefree", "titulo": "Carefree", "animo": "alegre", "energia": 3, "uso": "vlogs, rutinas, buenas noticias" },
+    { "id": "scheming-weasel", "titulo": "Scheming Weasel faster", "animo": "travieso", "energia": 4, "uso": "hacks rápidos, atajos" },
+    { "id": "merry-go", "titulo": "Merry Go", "animo": "circo", "energia": 3, "uso": "caos, situaciones absurdas" },
+    { "id": "hyperfun", "titulo": "Hyperfun", "animo": "energético", "energia": 5, "uso": "montajes rápidos, listas, top 5" },
+    { "id": "run-amok", "titulo": "Run Amok", "animo": "caótico", "energia": 4, "uso": "todo sale mal, prisas" },
+    { "id": "life-of-riley", "titulo": "Life of Riley", "animo": "despreocupado", "energia": 3, "uso": "lifestyle, productividad ligera" },
+    { "id": "pixelland", "titulo": "Pixelland", "animo": "8-bit", "energia": 3, "uso": "gaming, apps, retro" },
+    { "id": "funky-chunk", "titulo": "Funky Chunk", "animo": "funk", "energia": 4, "uso": "resultados, «mira esto», showcase" },
+    { "id": "inspired", "titulo": "Inspired", "animo": "inspirador", "energia": 2, "uso": "historias, logros, reflexiones" },
+    { "id": "bossa-antigua", "titulo": "Bossa Antigua", "animo": "tranquilo", "energia": 2, "uso": "café, explicaciones calmadas" },
+    { "id": "easy-lemon", "titulo": "Easy Lemon", "animo": "suave", "energia": 2, "uso": "fondo neutro, negocios, guías" },
+    { "id": "jazz-brunch", "titulo": "Jazz Brunch", "animo": "jazz", "energia": 2, "uso": "recetas, rutinas, ambiente" },
+    { "id": "sneaky-adventure", "titulo": "Sneaky Adventure", "animo": "aventura", "energia": 3, "uso": "explorar, probar algo nuevo" },
+    { "id": "itty-bitty-8-bit", "titulo": "Itty Bitty 8 Bit", "animo": "8-bit", "energia": 4, "uso": "gaming, logros, niveles" },
+    { "id": "faster-does-it", "titulo": "Faster Does It", "animo": "dinámico", "energia": 4, "uso": "paso a paso rápido, speedrun" },
+    { "id": "pamgaea", "titulo": "Pamgaea", "animo": "épico", "energia": 4, "uso": "viajes, grandes resultados, intros" },
+    { "id": "volatile-reaction", "titulo": "Volatile Reaction", "animo": "tensión", "energia": 4, "uso": "suspenso, alertas, ciberataques" },
+    { "id": "bit-quest", "titulo": "Bit Quest", "animo": "8-bit épico", "energia": 4, "uso": "retos, misiones, gaming épico" }
+  ]
+}

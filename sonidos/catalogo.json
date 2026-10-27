@@ -1,0 +1,128 @@
+[
+  {
+    "id": "whoosh-1",
+    "tipo": "whoosh",
+    "archivo": "whoosh-1.wav",
+    "descripcion": "barrido de aire corto para entradas",
+    "duracionMs": 450,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "whoosh-2",
+    "tipo": "whoosh",
+    "archivo": "whoosh-2.wav",
+    "descripcion": "barrido grave para zooms",
+    "duracionMs": 600,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "pop-1",
+    "tipo": "pop",
+    "archivo": "pop-1.wav",
+    "descripcion": "burbuja corta para puntos de lista",
+    "duracionMs": 120,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "pop-2",
+    "tipo": "pop",
+    "archivo": "pop-2.wav",
+    "descripcion": "clic suave",
+    "duracionMs": 80,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "impacto-1",
+    "tipo": "impacto",
+    "archivo": "impacto-1.wav",
+    "descripcion": "golpe grave para revelaciones",
+    "duracionMs": 900,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "riser-1",
+    "tipo": "riser",
+    "archivo": "riser-1.wav",
+    "descripcion": "tensión que sube antes de una revelación",
+    "duracionMs": 1600,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "ding-1",
+    "tipo": "ding",
+    "archivo": "ding-1.wav",
+    "descripcion": "campana de acierto",
+    "duracionMs": 1000,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "error-1",
+    "tipo": "error",
+    "archivo": "error-1.wav",
+    "descripcion": "zumbido de error",
+    "duracionMs": 450,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "tictac-1",
+    "tipo": "tictac",
+    "archivo": "tictac-1.wav",
+    "descripcion": "tic-tac de reloj (1 s)",
+    "duracionMs": 1000,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "tecleo-1",
+    "tipo": "tecleo",
+    "archivo": "tecleo-1.wav",
+    "descripcion": "tres teclas",
+    "duracionMs": 360,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "notificacion-1",
+    "tipo": "notificacion",
+    "archivo": "notificacion-1.wav",
+    "descripcion": "aviso de app en dos notas",
+    "duracionMs": 500,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "caja-1",
+    "tipo": "caja",
+    "archivo": "caja-1.wav",
+    "descripcion": "caja registradora (dinero)",
+    "duracionMs": 900,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "glitch-1",
+    "tipo": "glitch",
+    "archivo": "glitch-1.wav",
+    "descripcion": "corte digital para cambiar de tema",
+    "duracionMs": 350,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  },
+  {
+    "id": "obturador-1",
+    "tipo": "obturador",
+    "archivo": "obturador-1.wav",
+    "descripcion": "foto / captura",
+    "duracionMs": 250,
+    "origen": "sintetizado por herramientas/sintetizar-sfx.ts",
+    "licencia": "MIT (parte de este repo)"
+  }
+]

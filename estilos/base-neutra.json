@@ -1,0 +1,59 @@
+{
+ "id": "base-neutra",
+ "estado": "aprobado",
+ "formato": {
+  "ancho": 1080,
+  "alto": 1920,
+  "fps": 30
+ },
+ "subtitulos": {
+  "activo": true,
+  "fuente": "Inter",
+  "peso": 700,
+  "tamano": 68,
+  "color": "#FFFFFF",
+  "resalte": "#E8C987",
+  "contorno": "#000000",
+  "posicion": 0.7,
+  "maxPalabras": 3,
+  "mayusculas": false,
+  "grosorContorno": 0
+ },
+ "tarjetas": {
+  "activo": true,
+  "fuente": "Inter",
+  "fondo": "#0C0D10",
+  "texto": "#F5F5F2",
+  "acento": "#E8C987",
+  "posicion": 0.26,
+  "duracionMaxMs": 2500
+ },
+ "gancho": {
+  "activo": true,
+  "duracionMs": 2200,
+  "tamano": 92
+ },
+ "ritmo": {
+  "silencioMaxMs": 350,
+  "margenMs": 120,
+  "velocidad": 1,
+  "zooms": true,
+  "maxPlanoMs": 2600,
+  "zoomEntrada": true
+ },
+ "audio": {
+  "lufs": -14
+ },
+ "efectos": {
+  "densidad": "medio",
+  "volumenDb": -22
+ },
+ "musica": {
+  "volumenDb": -18,
+  "bajaDb": 12
+ },
+ "cabecera": {
+  "barra": true,
+  "onda": true
+ }
+}

@@ -1,0 +1,14 @@
+node_modules/
+proyectos/*
+!proyectos/README.md
+whisper.cpp/
+out/
+.DS_Store
+*.log
+config.json
+estilos/*.historial.jsonl
+estilos/*.guia.md
+sonidos/musica/
+entorno.json
+respuestas.json
+models/tessdata/
