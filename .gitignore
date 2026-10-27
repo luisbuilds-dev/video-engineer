@@ -12,3 +12,6 @@ sonidos/musica/
 entorno.json
 respuestas.json
 models/tessdata/
+
+# iconos guardados desde internet: la biblioteca de cada usuario (npm run iconos -- --guardar)
+iconos/
