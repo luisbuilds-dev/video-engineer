@@ -1,6 +1,6 @@
 {
   "name": "video-engineer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "description": "Tu ingeniero de edición de vídeo para Claude Code: reels verticales y vídeos de YouTube. Limpia el crudo, subtitula sin taparte, añade gráficos, efectos y música, renderiza con Remotion y revisa el resultado antes de entregarlo.",
   "license": "MIT",

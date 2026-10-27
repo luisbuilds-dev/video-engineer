@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Video Engineer" width="100%"></p>
+<p align="center"><img src="assets/banner.gif" alt="Video Engineer" width="100%"></p>
 
 <h1 align="center">Video Engineer</h1>
 
